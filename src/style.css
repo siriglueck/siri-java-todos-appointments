@@ -1,0 +1,21 @@
+.field {
+    -fx-background-color: lightblue;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-padding: 5 5 5 5;
+    -fx-cursor: hand;
+}
+
+.title {
+    -fx-text-fill: Blue; 
+    -fx-font-size: 20px; 
+    -fx-font-weight: bold;
+}
+
+.result {
+    -fx-text-fill: Black; 
+    -fx-font-size: 15px; 
+    -fx-font-weight: bold;
+}
